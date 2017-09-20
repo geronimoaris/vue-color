@@ -71,8 +71,9 @@ export default {
 }
 .vc-compact-color-item {
   list-style: none;
-  width: 15px;
-  height: 15px;
+  width: 30px;
+  height: 30px;
+  float: left;
   margin-right: 5px;
   margin-bottom: 5px;
   position: relative;
