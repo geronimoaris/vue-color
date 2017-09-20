@@ -73,7 +73,6 @@ export default {
   list-style: none;
   width: 15px;
   height: 15px;
-  float: left;
   margin-right: 5px;
   margin-bottom: 5px;
   position: relative;
